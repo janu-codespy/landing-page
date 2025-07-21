@@ -34,7 +34,8 @@ module.exports = {
         },
       },
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
+        sans: ['var(--font-inter)', 'Inter', 'sans-serif'],
+        mono: ['var(--font-jetbrains-mono)', 'JetBrains Mono', 'monospace'],
       },
     },
   },
