@@ -12,8 +12,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "Nipix Technology - Innovate • Learn • Create",
-  description: "Empowering the next generation of innovators through hands-on technology education and mentorship.",
+  title: "EduPro Academy - Learn • Grow • Succeed",
+  description: "Master high-demand skills with our industry-leading courses in technology, business, and creative fields. Join thousands of successful graduates.",
 };
 
 export default function RootLayout({ children }) {
